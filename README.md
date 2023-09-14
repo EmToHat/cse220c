@@ -1,5 +1,4 @@
 # CSE 220C / C++
----
 ### Assignments
 - Week 01
     - Debugging
@@ -14,4 +13,3 @@
     - Upgrade the bank system to include contact information.
 - Week 06
     - A project combining what you have learned. Project must take 3-6 hrs to complete and should use C++ and classes.
- 
